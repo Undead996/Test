@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Undead996/Test/static/css/main.4059a71f.chunk.css",
-    "main.js": "/Undead996/Test/static/js/main.f37d7fa2.chunk.js",
-    "main.js.map": "/Undead996/Test/static/js/main.f37d7fa2.chunk.js.map",
+    "main.js": "/Undead996/Test/static/js/main.8abec429.chunk.js",
+    "main.js.map": "/Undead996/Test/static/js/main.8abec429.chunk.js.map",
     "runtime-main.js": "/Undead996/Test/static/js/runtime-main.df92689c.js",
     "runtime-main.js.map": "/Undead996/Test/static/js/runtime-main.df92689c.js.map",
     "static/js/2.7a8080a8.chunk.js": "/Undead996/Test/static/js/2.7a8080a8.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.df92689c.js",
     "static/js/2.7a8080a8.chunk.js",
     "static/css/main.4059a71f.chunk.css",
-    "static/js/main.f37d7fa2.chunk.js"
+    "static/js/main.8abec429.chunk.js"
   ]
 }
